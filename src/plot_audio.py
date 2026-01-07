@@ -13,3 +13,4 @@ plt.xlabel("Samples")
 plt.ylabel("Amplitude")
 plt.tight_layout()
 plt.show()
+
